@@ -3,4 +3,4 @@ TESTING
 
 Hello World
 Halo Dunia 
-Hola Mundo
+Kon'nichiwa sekai
